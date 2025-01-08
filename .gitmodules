@@ -1,3 +1,6 @@
 [submodule "vultiserver-plugin"]
 	path = vultiserver-plugin
 	url = git@github.com:LimeChain/vultiserver-plugin.git
+[submodule "vultisig-relay"]
+	path = vultisig-relay
+	url = git@github.com:vultisig/vultisig-relay.git
